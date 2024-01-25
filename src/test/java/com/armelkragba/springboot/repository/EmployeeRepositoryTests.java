@@ -2,7 +2,7 @@ package com.armelkragba.springboot.repository;
 
 import com.armelkragba.springboot.model.Employee;
 
-import static org.assertj.core.api.Assertions.assertThat;
+                                                                                    import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
